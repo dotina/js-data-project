@@ -49,4 +49,4 @@ To start up the backend for devlopment run:
 
 ## Postman Documentation
 
-More details about the API endpoints can be be found at <https://documenter.getpostman.com/view/25012176/2s9Y5Zv1xz>
+More details about the API endpoints can be be found at <https://documenter.getpostman.com/view/3432436/2s9YeEcY45#get-started-here>
