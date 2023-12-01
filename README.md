@@ -1,10 +1,6 @@
 # Data Platform Project Setup
 
-This project has been developed over time by students in the CIS 4339 course.
-
-The current iteration is based on development done by:
-* Jeremy Griffith and Edwin Charly in Spring of 2023
-* Elliot Farmer Garcia, Agatha	Molski and Chris Blanco in Fall of 2022.
+This project has been developed over time
 
 ## Requirements
 
